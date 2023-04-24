@@ -61,8 +61,8 @@ $(document).ready(function() {
                 items: 1,
                 nav: false
             },
-            300: {
-                items: 2,
+            500: {
+                items:2,
                 nav: false
             },
             600: {
